@@ -1,0 +1,5 @@
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\Model\bin\Release\Model.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\Model\bin\Release\Model.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\Model\obj\Release\Model.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\Model\obj\Release\Model.pdb

@@ -1,0 +1,53 @@
+D:\ERP\ERP\bin\Release\ERP.ini
+D:\ERP\ERP\bin\Release\Resources\License.lic
+D:\ERP\ERP\bin\Release\Resources\ERP.ico
+D:\ERP\ERP\bin\Release\ERP.exe
+D:\ERP\ERP\bin\Release\ERP.pdb
+D:\ERP\ERP\bin\Release\Aspose.Cells.dll
+D:\ERP\ERP\obj\Release\ERP.Form_Home.resources
+D:\ERP\ERP\obj\Release\ERP.Form_Login.resources
+D:\ERP\ERP\obj\Release\ERP.Form_出厂设置.resources
+D:\ERP\ERP\obj\Release\ERP.Form_出差.resources
+D:\ERP\ERP\obj\Release\ERP.Form_创建角色.resources
+D:\ERP\ERP\obj\Release\ERP.Form_出差记录.resources
+D:\ERP\ERP\obj\Release\ERP.Form_设备列表.resources
+D:\ERP\ERP\obj\Release\ERP.Form_新增客户.resources
+D:\ERP\ERP\obj\Release\ERP.Form_经销商.resources
+D:\ERP\ERP\obj\Release\ERP.Form_员工列表.resources
+D:\ERP\ERP\obj\Release\ERP.Form_周报.resources
+D:\ERP\ERP\obj\Release\ERP.Form_医院.resources
+D:\ERP\ERP\obj\Release\ERP.Form_周报列表.resources
+D:\ERP\ERP\obj\Release\ERP.Form_密码修改.resources
+D:\ERP\ERP\obj\Release\ERP.Properties.Resources.resources
+D:\ERP\ERP\obj\Release\ERP.csproj.GenerateResource.Cache
+D:\ERP\ERP\obj\Release\ERP.exe
+D:\ERP\ERP\obj\Release\ERP.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.exe
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\ERP.ini
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\Resources\License.lic
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\Resources\ERP.ico
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\ERP.exe
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\ERP.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\Aspose.Cells.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.csprojResolveAssemblyReference.cache
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_Home.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_Login.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_出厂设置.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_出差.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_创建角色.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_出差记录.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_设备列表.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_新增客户.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_经销商.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_员工列表.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_周报.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_医院.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_周报列表.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_密码修改.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Properties.Resources.resources
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.csproj.GenerateResource.Cache
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\BLL.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\Model.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\BLL.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\bin\Release\Model.pdb

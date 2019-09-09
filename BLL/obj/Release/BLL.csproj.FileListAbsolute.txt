@@ -1,0 +1,9 @@
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\BLL.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\BLL.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\DAL.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\Model.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\DAL.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\Model.pdb
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\obj\Release\BLL.dll
+D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\obj\Release\BLL.pdb

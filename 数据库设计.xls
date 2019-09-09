@@ -1,0 +1,11 @@
+T_BusinessTrip	出差表
+	
+T_Customer	客户表
+	
+T_Equipment	设备表
+	
+T_Group	用户组表
+	
+T_UserInfo	用户表
+	
+T_Weekly	周报表
