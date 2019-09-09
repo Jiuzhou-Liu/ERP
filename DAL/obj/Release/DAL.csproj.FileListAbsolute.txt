@@ -5,3 +5,12 @@ D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\DAL\bin\Release\Model.
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\DAL\obj\Release\DAL.dll
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\DAL\obj\Release\DAL.pdb
+C:\Users\22677\Downloads\Compressed\ERP\DAL\bin\Release\DAL.dll
+C:\Users\22677\Downloads\Compressed\ERP\DAL\bin\Release\DAL.pdb
+C:\Users\22677\Downloads\Compressed\ERP\DAL\bin\Release\Model.dll
+C:\Users\22677\Downloads\Compressed\ERP\DAL\bin\Release\Model.pdb
+C:\Users\22677\Downloads\Compressed\ERP\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\22677\Downloads\Compressed\ERP\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\22677\Downloads\Compressed\ERP\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\22677\Downloads\Compressed\ERP\DAL\obj\Release\DAL.dll
+C:\Users\22677\Downloads\Compressed\ERP\DAL\obj\Release\DAL.pdb

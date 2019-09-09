@@ -7,3 +7,14 @@ D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\bin\Release\Model.
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\obj\Release\BLL.dll
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\BLL\obj\Release\BLL.pdb
+C:\Users\22677\Downloads\Compressed\ERP\BLL\bin\Release\BLL.dll
+C:\Users\22677\Downloads\Compressed\ERP\BLL\bin\Release\BLL.pdb
+C:\Users\22677\Downloads\Compressed\ERP\BLL\bin\Release\DAL.dll
+C:\Users\22677\Downloads\Compressed\ERP\BLL\bin\Release\Model.dll
+C:\Users\22677\Downloads\Compressed\ERP\BLL\bin\Release\DAL.pdb
+C:\Users\22677\Downloads\Compressed\ERP\BLL\bin\Release\Model.pdb
+C:\Users\22677\Downloads\Compressed\ERP\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+C:\Users\22677\Downloads\Compressed\ERP\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\22677\Downloads\Compressed\ERP\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Users\22677\Downloads\Compressed\ERP\BLL\obj\Release\BLL.dll
+C:\Users\22677\Downloads\Compressed\ERP\BLL\obj\Release\BLL.pdb

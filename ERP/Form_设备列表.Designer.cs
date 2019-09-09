@@ -93,7 +93,7 @@
             this.dgvEquipment.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvEquipment.Size = new System.Drawing.Size(784, 485);
             this.dgvEquipment.TabIndex = 0;
-            this.dgvEquipment.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvWeekly_CellDoubleClick);
+            //this.dgvEquipment.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvWeekly_CellDoubleClick);
             // 
             // eid
             // 

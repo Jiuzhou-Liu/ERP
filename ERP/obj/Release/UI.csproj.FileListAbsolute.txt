@@ -29,3 +29,35 @@ D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.ex
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.pdb
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_售后记录.resources
 D:\我的文档\Documents\Visual Studio 2015\Projects\ERP\ERP\obj\Release\ERP.Form_售后登记.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\UI.csprojAssemblyReference.cache
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_Home.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_Login.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_出厂设置.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_出差.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_售后登记.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_创建角色.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_出差记录.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_售后记录.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_设备列表.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_新增客户.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_经销商.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_员工列表.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_周报.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_医院.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_周报列表.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Form_密码修改.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.Properties.Resources.resources
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\UI.csproj.GenerateResource.cache
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\UI.csproj.CoreCompileInputs.cache
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.exe
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\ERP.pdb
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\Resources\License.lic
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\Resources\ERP.ico
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\ERP.exe
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\ERP.pdb
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\Aspose.Cells.dll
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\BLL.dll
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\Model.dll
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\BLL.pdb
+C:\Users\22677\Downloads\Compressed\ERP\ERP\bin\Release\Model.pdb
+C:\Users\22677\Downloads\Compressed\ERP\ERP\obj\Release\UI.csproj.CopyComplete
